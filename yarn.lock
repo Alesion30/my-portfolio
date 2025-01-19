@@ -35,9 +35,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@apollo/client@npm:3.12.4":
-  version: 3.12.4
-  resolution: "@apollo/client@npm:3.12.4"
+"@apollo/client@npm:3.12.6":
+  version: 3.12.6
+  resolution: "@apollo/client@npm:3.12.6"
   dependencies:
     "@graphql-typed-document-node/core": ^3.1.1
     "@wry/caches": ^1.0.0
@@ -68,7 +68,7 @@ __metadata:
       optional: true
     subscriptions-transport-ws:
       optional: true
-  checksum: d9474fc117587b649bed65855ddafa07b43ec39eecb2867b41d1c3a04198335023ce79d2945763bcfdc6b902f7e67cdb529026a18133b36b3f24ad84b3b4a994
+  checksum: e10433a1802141385455461e62ab9421d823846a16b889b81ec02aeea7e45784cb31a9b4734a6a018399f5da854de7d0abcb2c70e39a9d5ffa7083b72de004b8
   languageName: node
   linkType: hard
 
@@ -4287,12 +4287,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:11.16.4":
-  version: 11.16.4
-  resolution: "framer-motion@npm:11.16.4"
+"framer-motion@npm:11.18.1":
+  version: 11.18.1
+  resolution: "framer-motion@npm:11.18.1"
   dependencies:
-    motion-dom: ^11.16.4
-    motion-utils: ^11.16.0
+    motion-dom: ^11.18.1
+    motion-utils: ^11.18.1
     tslib: ^2.4.0
   peerDependencies:
     "@emotion/is-prop-valid": "*"
@@ -4305,7 +4305,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: f398f15f8ee7f7a61fbb20c7f1a2c669553a6e5bb47bc36332233142612ce99a8d0f248b9ab6bee2b924d61e4048eb1b1d6af462ffc656841316f634a9e16c66
+  checksum: b1fb34f8ea2c2da7ccb6df5891f395d54681867e5835042aecf81bd89ffe9f7ab5bad3b72244c598e63471d721ed8b9a84776f5358e6b46b18adc2768598154b
   languageName: node
   linkType: hard
 
@@ -6158,19 +6158,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"motion-dom@npm:^11.16.4":
-  version: 11.16.4
-  resolution: "motion-dom@npm:11.16.4"
+"motion-dom@npm:^11.18.1":
+  version: 11.18.1
+  resolution: "motion-dom@npm:11.18.1"
   dependencies:
-    motion-utils: ^11.16.0
-  checksum: 029f9924023e3b92428af8f1f3ef2fccc3f313ae58e2cb8669b774627a186a2ac8aacf9ad46fd9321e752c40254de6fd05a00003147ab8260622afe16060b491
+    motion-utils: ^11.18.1
+  checksum: c801aad3a9268221a0c346d71aae68cc2ddf3f5063ce02bbb6d9f4b7c509de16aa2eae3a8e5f0423087d38110bd17a8a75886f646bf9225ba4bad97a50e3ab76
   languageName: node
   linkType: hard
 
-"motion-utils@npm:^11.16.0":
-  version: 11.16.0
-  resolution: "motion-utils@npm:11.16.0"
-  checksum: 77063c4759b534dc0b13c290b3ef947d21f825782b5ff6329574e90c847ed46f8f948c1f842ed11907058595e575f82e7c850627e4d902eaca9479e24db900c1
+"motion-utils@npm:^11.18.1":
+  version: 11.18.1
+  resolution: "motion-utils@npm:11.18.1"
+  checksum: e8789e50dce6e952226608e8f7eb8e03779332849f38c70cc9e1fbd5e34f2e6d0efb2d565091de999135ec3a3d4a0df1a796833cccd8f6a2313f81445c6e5b83
   languageName: node
   linkType: hard
 
@@ -6829,7 +6829,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "portfolio@workspace:."
   dependencies:
-    "@apollo/client": 3.12.4
+    "@apollo/client": 3.12.6
     "@next/bundle-analyzer": 13.5.2
     "@types/node": 18.17.19
     "@types/react": 18.2.22
@@ -6846,7 +6846,7 @@ __metadata:
     eslint-plugin-import: 2.28.1
     eslint-plugin-prettier: 5.0.0
     eslint-plugin-react: 7.33.2
-    framer-motion: 11.16.4
+    framer-motion: 11.18.1
     graphql: 16.10.0
     modern-css-reset: 1.4.0
     next: 12.3.4
@@ -6857,7 +6857,7 @@ __metadata:
     prettier-plugin-sort-json: 3.1.0
     react: 19.0.0
     react-dom: 19.0.0
-    react-intersection-observer: 9.14.1
+    react-intersection-observer: 9.15.0
     react-markdown: 9.0.3
     react-use: 17.6.0
     sass: 1.68.0
@@ -7050,16 +7050,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-intersection-observer@npm:9.14.1":
-  version: 9.14.1
-  resolution: "react-intersection-observer@npm:9.14.1"
+"react-intersection-observer@npm:9.15.0":
+  version: 9.15.0
+  resolution: "react-intersection-observer@npm:9.15.0"
   peerDependencies:
     react: ^17.0.0 || ^18.0.0 || ^19.0.0
     react-dom: ^17.0.0 || ^18.0.0 || ^19.0.0
   peerDependenciesMeta:
     react-dom:
       optional: true
-  checksum: 99aace763dbb2d43c4b7c8131cf2f9b826022690c7049da148d4f921d58680d9e7556b32a488af6d277134eb89e1ae75bd9913fae1b04002cacda371f83c26da
+  checksum: f835e2d93b3eca1750b4dc583994305fae25d96fa7a3e3132b0fd141e3a3e01df77dc01bb7744a1bc67e5b5c93c4557d578564a401c2c88161d138818454ec82
   languageName: node
   linkType: hard
 
